@@ -24,6 +24,7 @@ classifiers = [
 dependencies = [
     "matplotlib",
     "matplotlib-label-lines",
+    "numpy",
 ]
 
 [project.optional-dependencies]
