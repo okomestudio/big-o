@@ -4,6 +4,8 @@ big_o
 
 *big-o* for Python.
 
+.. image:: output/big-o.png
+
 The code uses LaTeX for rendering math symbols. On Debian, install
 necessary packages:
 
