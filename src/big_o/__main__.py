@@ -1,5 +1,10 @@
+"""The entry point."""
+from .big_o import plot_big_o
+
+
 def main():
-    # Implement CLI here.
+    """Start the app from here."""
+    plot_big_o()
 
 
 if __name__ == "__main__":
